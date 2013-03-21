@@ -17,5 +17,8 @@ Support for the file is here: http://www.mangareader.com/dmclglcd.html
 I have included it in the debug directory of the git, but it will need
 to be placed in the same directory as the .exe in the final build.
 
+This project also requires the .NET framework, and is intended for desktop
+Windows PCs.
+
 Continued development of BitNotifier can be supported by donations to 
 1N7A7StTKAV7HivYyTKUsNCsKjPAihPMgV.
