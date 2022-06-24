@@ -1,3 +1,6 @@
+**This project has been archived. No development is ongoing. 
+It's connections are no longer existant. Do not use this project**
+
 This project is a work in progress and is proved as is. 
 
 BitNotifier queries Mt Gox every ten seconds and displays various
@@ -19,6 +22,3 @@ to be placed in the same directory as the .exe in the final build.
 
 This project also requires the .NET framework, and is intended for desktop
 Windows PCs.
-
-Continued development of BitNotifier can be supported by donations to 
-1N7A7StTKAV7HivYyTKUsNCsKjPAihPMgV.
